@@ -1,0 +1,6 @@
+
+write this command in terminal
+
+    streamlit run app.py
+
+http://localhost:8501/
